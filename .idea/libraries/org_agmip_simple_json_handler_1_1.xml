@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.agmip:simple-json-handler:1.1" type="repository">
+    <properties maven-id="org.agmip:simple-json-handler:1.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/simple-json-handler-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-mapper-asl-1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-asl-1.9.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/agmip-core-0.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
